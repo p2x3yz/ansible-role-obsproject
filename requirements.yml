@@ -1,6 +1,6 @@
 ---
 roles:
-  - name: robertdebock.bootstrap
-  - name: robertdebock.epel
-  - name: robertdebock.rpmfusion
+  - name: mikepadge.bootstrap
+  - name: mikepadge.epel
+  - name: mikepadge.rpmfusion
 collections:
